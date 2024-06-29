@@ -1,0 +1,2 @@
+# pycacheフォルダを管理外に設定
+./lib/__pycache__/
